@@ -1,8 +1,10 @@
 # Trabalho-Programacao-Mobile
 
 Alunos:
-Davi Queiroz
+Davi Queiroz Rodrigues
+
 Níkolas Cavalheiro Gonçalves da Silva
+
 Samuel William de Souza Moraes
 
 Descrição:
