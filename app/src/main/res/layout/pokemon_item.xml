@@ -20,7 +20,7 @@
         android:layout_marginBottom="8dp">
 
         <ImageView
-            android:id="@+id/ivPokemon"
+            android:id="@+id/imagemPokemon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="30dp"
@@ -41,7 +41,7 @@
             android:text="No 001"
             android:textSize="18sp"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/ivPokemon" />
+            app:layout_constraintTop_toBottomOf="@+id/imagemPokemon" />
 
         <TextView
             android:id="@+id/nomePokemon"
