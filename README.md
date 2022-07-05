@@ -5,7 +5,7 @@ Davi Queiroz Rodrigues
 
 Níkolas Cavalheiro Gonçalves da Silva
 
-Samuel William de Souza Moraes
+Samuel Willian de Souza Moraes
 
 Descrição:
 O trabalho consistirá na criação de uma "pokedéx" a qual nada mais é que uma listagem de animais do jogo pokemon.
